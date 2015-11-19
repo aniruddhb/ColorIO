@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Aniruddh\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\Aniruddh\Documents\CS\Projects\ColorIO\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-c0550399314124171689df4469ab00a6c7d2a9a0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aniruddh\Documents\CS\Projects\ColorIO\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Aniruddh\Documents\CS\Projects\ColorIO\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-93822e5008840c5938a31277cd5a37b89860cb9b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aniruddh\Documents\CS\Projects\ColorIO\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.7.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5bdb38b7e4b6094891648c1dc4dc08589b460f97">
+        <dex dex="C:\Users\Aniruddh\Documents\CS\Projects\ColorIO\app\build\intermediates\pre-dexed\debug\classes-aaf15532794c08e657b3a9b075274c800c7fdfbd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aniruddh\Documents\CS\Projects\ColorIO\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\Aniruddh\Documents\CS\Projects\ColorIO\app\build\intermediates\pre-dexed\debug\classes-cb7863d2a7fcf42d4e3f2a6f45a7cf7cd89ede41.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aniruddh\Documents\CS\Projects\ColorIO\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\Aniruddh\Documents\CS\Projects\ColorIO\app\build\intermediates\pre-dexed\debug\classes-f83945ccab01684ed420b700a67fd3b2089549e1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aniruddh\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.0\6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd\bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="C:\Users\Aniruddh\Documents\CS\Projects\ColorIO\app\build\intermediates\pre-dexed\debug\bolts-android-1.2.0-01158d5b63a1047c1c5b6b85b22379cb3d02bc7a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aniruddh\Documents\CS\Projects\ColorIO\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Aniruddh\Documents\CS\Projects\ColorIO\app\build\intermediates\pre-dexed\debug\classes-60c73e241237d25d22806ab522cd56fe0c8fa236.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aniruddh\Documents\CS\Projects\ColorIO\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\Aniruddh\Documents\CS\Projects\ColorIO\app\build\intermediates\pre-dexed\debug\classes-c7a984bee48e2cd46ea39f0eefe213db71fb4fa5.jar" />
+    </item>
+
+</items>
